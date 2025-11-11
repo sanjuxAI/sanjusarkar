@@ -15,10 +15,6 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - **JavaScript** – Interactivity and animations
 
 
-## Live Demo
-You can view the live version of this portfolio at:
-[Your Portfolio Link](https://itzsanjus.github.io/sanjusarkar)
-
 ## Contact
 If you have any questions or suggestions, feel free to contact me:
 - **Email**: sanjusarkar44@hotmail.com
